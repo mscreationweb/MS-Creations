@@ -3,6 +3,12 @@ import Project1Img from "../../../assets/images/home/logo.webp";
 import Project2Img from "../../../assets/images/home/social.webp";
 import Project3Img from "../../../assets/images/home/package1.webp";
 import Project4Img from "../../../assets/images/home/profile.webp";
+import Project5Img from "../../../assets/images/home/Flyer.webp";
+import Project6Img from "../../../assets/images/home/Webdev .webp";
+import Project7Img from "../../../assets/images/home/Videography.webp";
+import Project8Img from "../../../assets/images/home/Motion .webp";
+import Project9Img from "../../../assets/images/home/SocialMedia .webp";
+import Project10Img from "../../../assets/images/home/Business.webp";
 import ProjectCard from "./ProjectCard";
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Pagination, Mousewheel } from "swiper/modules";
@@ -36,37 +42,37 @@ const projectsData = [
 		id: crypto.randomUUID(),
 		title: "Flyer Design",
 		description: "Developing the look and feel of physical products, aesthetics, and functionality.",
-		img: Project1Img,
+		img: Project5Img,
 	},
 	{
 		id: crypto.randomUUID(),
 		title: "Business Card & Letterhead Design",
 		description: "Creating or refreshing a company's logo and developing a cohesive visual identity.",
-		img: Project2Img,
+		img: Project10Img,
 	},
 	{
 		id: crypto.randomUUID(),
 		title: "Web Development",
 		description: "Creating or refreshing a company's logo and developing a cohesive visual identity.",
-		img: Project2Img,
+		img: Project6Img,
 	},
 	{
 		id: crypto.randomUUID(),
-		title: "Videography",
+		title: "video - Photography & video Production",
 		description: "Creating or refreshing a company's logo and developing a cohesive visual identity.",
-		img: Project2Img,
+		img: Project7Img,
 	},
 	{
 		id: crypto.randomUUID(),
 		title: "Motion Graphics",
 		description: "Creating or refreshing a company's logo and developing a cohesive visual identity.",
-		img: Project2Img,
+		img: Project8Img,
 	},
 	{
 		id: crypto.randomUUID(),
 		title: "Social Media Management",
 		description: "Creating or refreshing a company's logo and developing a cohesive visual identity.",
-		img: Project2Img,
+		img: Project9Img,
 	},
 ];
 

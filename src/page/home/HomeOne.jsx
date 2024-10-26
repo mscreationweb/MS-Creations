@@ -81,7 +81,7 @@ function HomeOne() {
 			<Services services={servicesData} />
 			<About />
 			<Projects />
-			<BrandLogo />
+			{/* <BrandLogo /> */}
 			{/* <WhyChooseUs /> */}
 			{/* <Testimonial /> */}
 			<AutoSlider />
