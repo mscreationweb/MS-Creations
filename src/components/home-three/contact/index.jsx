@@ -19,7 +19,7 @@ function Contact() {
 									<li>
 										<a href="tel:088-234-6849">
 											<i className="icon-phone"></i>
-											+088-234-6849
+											91 948 088 9252
 										</a>
 									</li>
 									<li>

@@ -2,8 +2,8 @@ import { Link } from "react-router-dom";
 function TeamCard({ team: { name, designation, img,link,whatsapp,insta,face} }) {
 	return (
 		<div className="col-xl-3 col-md-6">
-			<div className="aximo-team-wrap">
-				<div className="aximo-team-thumb">
+			<div className="aximo-team-wrap" >
+				<div className="aximo-team-thumb" style={{height:"250px"}}>
 					<img src={img} alt={name} />
 					<div className="aximo-social-icon team-social">
 						<ul>

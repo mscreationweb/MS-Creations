@@ -9,7 +9,7 @@ function FooterContact() {
 					mthemeus@gmail.com
 				</a>
 				<a className="aximo-footer-info" href="tel:+088-234-684900">
-					+088-234-684900
+				91 948 088 9252
 				</a>
 				<a className="aximo-footer-info" href="#">
 					Haward Street,10203 USA

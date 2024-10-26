@@ -10,7 +10,7 @@ const services = [
 		title: "Logo and Branding",
 		description:
 			"FWe create distinctive logos and cohesive branding strategies that resonate with your target audience, establishing a powerful and recognizable brand identity.",
-		icon: "icon-design-logo",
+		icon: "icon-design-tools",
 	},
 	{
 		id: crypto.randomUUID(),

@@ -33,7 +33,7 @@ const servicesData = [
 	},
 	{
 		id: crypto.randomUUID(),
-		title: "Motion Graphics",
+		title: "Videography",
 		description:
 			"High-quality videography services to capture and convey your brand’s story through compelling visuals. Whether it’s promotional videos, corporate events, or product showcases, we create impactful videos that resonate with your audience.",
 		icon: "icon-web",
