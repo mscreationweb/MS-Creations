@@ -4,7 +4,7 @@ import About from "../components/home-one/about";
 import AutoSlider from "../components/home-one/auto-slider";
 import Teams from "../components/home-one/teams";
 // Teams images
-import Team1Img from "../assets/images/team/Sajeel.jpg";
+import Team1Img from "../assets/images/team/Sajeel.webp";
 import Team2Img from "../assets/images/team/Aysha.jpg";
 import Team3Img from "../assets/images/team/Afnan.jpg";
 import Team4Img from "../assets/images/team/Ismail.jpg";
